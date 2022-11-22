@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="focusedItem">#fe7d68</color>
+    <color name="subMenu1">#1d1e18</color>
+    <color name="subMenu2">#4d5049</color>
+</resources>
