@@ -15,3 +15,5 @@ dependencyResolutionManagement {
 rootProject.name = "Bottom Navigation"
 include ':app'
 include ':centerNavigation'
+include ':cornerNavigation'
+include ':centerNavigation2'

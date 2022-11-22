@@ -4,6 +4,16 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/BottomNavigation/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.144" />
+        <entry key="..\:/BottomNavigation/app/src/main/res/drawable/ic_baseline_card_membership_24.xml" value="0.144" />
+        <entry key="..\:/BottomNavigation/app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.144" />
+        <entry key="..\:/BottomNavigation/app/src/main/res/drawable/ic_baseline_delete_outline_24.xml" value="0.144" />
+        <entry key="..\:/BottomNavigation/app/src/main/res/drawable/ic_baseline_folder_open_24.xml" value="0.144" />
+        <entry key="..\:/BottomNavigation/app/src/main/res/drawable/ic_baseline_help_outline_24.xml" value="0.144" />
+        <entry key="..\:/BottomNavigation/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.144" />
+        <entry key="..\:/BottomNavigation/app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.144" />
+        <entry key="..\:/BottomNavigation/app/src/main/res/drawable/ic_baseline_message_24.xml" value="0.144" />
+        <entry key="..\:/BottomNavigation/app/src/main/res/drawable/ic_baseline_notifications_none_24.xml" value="0.144" />
+        <entry key="..\:/BottomNavigation/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.144" />
         <entry key="..\:/BottomNavigation/app/src/main/res/layout/activity_main.xml" value="0.24010416666666667" />
       </map>
     </option>
